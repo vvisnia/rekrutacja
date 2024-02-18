@@ -1,0 +1,8 @@
+server:
+  port : 8082
+github:
+  token: <your_github_token>
+  url: https://api.github.com
+  getUsers: /users/
+  repos: /repos
+  branches: /branches
